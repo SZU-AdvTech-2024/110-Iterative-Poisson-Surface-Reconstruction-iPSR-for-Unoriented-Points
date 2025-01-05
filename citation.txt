@@ -1,0 +1,17 @@
+@article{REPO110,
+    author = "Hou, Fei and Wang, Chiyu and Wang, Wencheng and Qin, Hong and Qian, Chen and He, Ying",
+    address = "New York, NY, USA",
+    articleno = "128",
+    issn = "0730-0301",
+    issue_date = "July 2022",
+    journal = "ACM Trans. Graph.",
+    keywords = "iterative algorithm, poisson surface reconstruction, unoriented points",
+    month = "July",
+    number = "4",
+    numpages = "13",
+    publisher = "Association for Computing Machinery",
+    title = "{Iterative poisson surface reconstruction (iPSR) for unoriented points}",
+    url = "https://doi.org/10.1145/3528223.3530096",
+    volume = "41",
+    year = "2022"
+}
